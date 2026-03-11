@@ -1,0 +1,8 @@
+streamlit
+pytesseract
+Pillow
+pandas
+matplotlib
+langchain
+openai
+python-dotenv
